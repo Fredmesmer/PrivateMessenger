@@ -1,2 +1,2 @@
 # PrivateMessenger
-Private server hoster instant chat 
+Private server hosted instant chat 
