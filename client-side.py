@@ -1,7 +1,7 @@
 import socket
 client_socket = socket.socket()
 port = 12345
-client_socket.connect(('fredinsa.pw',port))
+client_socket.connect(('IP_Adress',port))
 #recieve connection message from server
 recv_msg = client_socket.recv(1024)
 print(str(recv_msg))
